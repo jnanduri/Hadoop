@@ -1,0 +1,3 @@
+gadget	51.900276
+gizmo	49.74913
+sprocket	49.864597
